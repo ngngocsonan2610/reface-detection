@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+./Face Recognition - OpenCV/Keras_age_gender/pretrained_models/weights.18-4.06.hdf5
+./Face Recognition - OpenCV/OpenCV-Face-Recognition/FacialRecognition/age_gender-trainer/gender_detection.model
+./Face Recognition - OpenCV/OpenCV-Face-Recognition/FacialRecognition/trainer/trainer.yml
+./Face Recognition - OpenCV/OpenCV-Face-Recognition/FacialRecognition/age-trainer/weights.28-3.73.hdf5
